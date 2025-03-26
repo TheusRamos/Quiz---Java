@@ -22,4 +22,8 @@
  * |espero que não desqualifique meu código.
  * 
  * - É isso, espero que goste, fico disponível para lhe explicar o código se necessário.
+  
+ * COMO JOGAR O QUIZ?
+ * - O PROGRAMA IRÁ IMPRIMIR NO TERMINAL UMA PERGUNTA POR VEZ. TUDO O QUE TEM QUE FAZER E ESCOLHER UM NÚMERO DE 1 A 4 DE ACORDO COM A SUA
+   - RESPOSTA. E PRONTO, QUANDO ACABAR AS 49 PERGUNTAS, ELE IRÁ IMPRIMIR A SUA PONTUAÇÃO. BOA SORTE!
  */
